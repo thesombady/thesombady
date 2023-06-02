@@ -1,14 +1,24 @@
-<div aling="center">
-  
-  ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=thesombady&show_icons=true)
-</div>
+# Hi
+Welcome to my profile. In my profile you can see what I've been working on, and what types of problems I focus on.
 
-- Hi! My name is Andreas Evensen, also known my @thesombady. I'm currently employed as a highschool teacher in Sweden, teaching subjects such as mathematics, physics and programming. My interest resides in mathematical / physical-programming, i.e simulations of all kinds. Previous works include my bachelor thesis work [Quantum statiscs of a three level maser](../../../Bachelor-Thesis), but simulations for heat-disperation, gravitation of planets and "slime" have been done extensivly.
-- My main languages are Python and V. I'm more than familiar within these two languages, but have some background in: JS, TS, C, C++, C#, Matlab, Ruby, and Rust.
-- I'm currently working on a side project called LynX-Engine which is a game-engine written in V. The main purpose of this project is to broaden my knowledge of shading - languges (currently implementing GLSL via the OpenGL API). To further deepen my understanding of certain coding aspects "most" of the engine is written from scratch; the engine includes its own math-, physics, and render-engine.
-- If have intentions of contacting me, you can do so via my email [andreas.evensen11@gmail.com].
+## About myself
+My name is Andreas Evensen; I'm a 24 year old male from Sweden who enjoy programming. I'm currently teaching in preperation for my masters in computational physics at Stockholm University. As the role of a teacher, I've tought classes such as mathematics, physics and programming at high-school level. I graduated from Lund University with a bachelor in physics, where I focused some of my studies on computational physics - my bachelor thesis work [Bachelor thesis code](../../../Bachelor-Thesis) layed the ground for my research. Other work in computation physics include, but is not limited by, heat-dispertion, motion of planets affected by gravitational pull, and "slime" evolution.
+
+## Langugages
+My main languages are V and Python - however I have some background in the following: JS, TS, C, C++, C#, Matlab, Ruby, and Rust.
+
+## Current project
+As of right now I'm working on a project called LynX-engine; a game engine written in V. The main purpose of this project is to broaden my knowledge of shaders (GLSL via OpenGL API) and to further my understaing of certain coding aspects. In order to achieve this, the majority of the engine is written from scratch and will include its own math-engine, physics-engine and render-engine.
+
+## Contact
+If you wish to come in contact with me, feel free to send me an email [andreas.evensen11@gmail.com] or add me on discord <ins> Aristotes#2364</ins>.
 
 <!---
 thesombady/thesombady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div aling="center">
+  
+  ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=thesombady&show_icons=true)
+</div>
