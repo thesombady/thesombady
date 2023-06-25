@@ -2,7 +2,7 @@
 Welcome to my profile. In my profile you can see what I've been working on, and what types of problems I focus on.
 
 ## About myself
-My name is Andreas Evensen; I'm a 24 year old male from Sweden who enjoy programming. I'm currently teaching in preperation for my masters in computational physics at Stockholm University. As the role of a teacher, I've tought classes such as mathematics, physics and programming at high-school level. I graduated from Lund University with a bachelor in physics, where I focused some of my studies on computational physics - my bachelor thesis work [Bachelor thesis code](../../../Bachelor-Thesis) layed the ground for my research. Other work in computation physics include, but are not limited to, heat-dispertion, motion of planets affected by gravitational pull, and "slime" evolution.
+My name is Andreas Evensen; I'm a 24 year old male from Sweden who enjoy programming. I'm currently teaching in preperation for my masters in computational physics at Stockholm University. As the role of a teacher, I've taught classes such as mathematics, physics and programming at high-school level. I graduated from Lund University with a bachelor in physics, where I focused some of my studies on computational physics - my bachelor thesis work [Bachelor thesis code](../../../Bachelor-Thesis) layed the ground for my research. Other work in computation physics include, but are not limited to, heat-dispertion, motion of planets affected by gravitational pull, and "slime" evolution. I'm currently enrolled at Stockholm University for a masters in Computational physics.
 
 ## Langugages
 My main languages are V and Python - however I have some background in the following: JS, TS, C, C++, C#, Matlab, Ruby, and Rust.
