@@ -10,7 +10,7 @@ My main languages are V and Python - however I have some background in the follo
 ## Current project
 As of right now I'm working on a project called LynX-engine; a game engine written in V. The main purpose of this project is to broaden my knowledge of shaders (GLSL via OpenGL API) and to further my understaing of certain coding aspects. In order to achieve this, the majority of the engine is written from scratch and will include its own math-engine, physics-engine and render-engine. As of right now, I'm having this project on hold.
 
-I'm also currently developing a programming language suited for scientific computation called _K_. It's a language of which focus on readability and mathematical 'correctness' in terms of numerical approximations and solving various equations. It's supposed to be a tool for creating simulations.
+I'm also currently developing a programming language suited for scientific computation called _K_. It's a language of which focus on readability and mathematical 'correctness' in terms of numerical approximations and solving various equations. It's supposed to be a tool for creating simulations. If you feel interested in such a language, feel free to contact me and join the team on developing this language to its first version `v0.1.0`.
 
 ## Contact
 If you wish to come in contact with me, feel free to send me an email andreas.evensen11@gmail.com or add me on discord <ins> Aristotes#2364</ins>.
