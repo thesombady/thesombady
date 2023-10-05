@@ -8,7 +8,9 @@ My name is Andreas Evensen; I'm a 24 year old male from Sweden who enjoy program
 My main languages are V and Python - however I have some background in the following: JS, TS, C, C++, C#, Matlab, Ruby, and Rust.
 
 ## Current project
-As of right now I'm working on a project called LynX-engine; a game engine written in V. The main purpose of this project is to broaden my knowledge of shaders (GLSL via OpenGL API) and to further my understaing of certain coding aspects. In order to achieve this, the majority of the engine is written from scratch and will include its own math-engine, physics-engine and render-engine.
+As of right now I'm working on a project called LynX-engine; a game engine written in V. The main purpose of this project is to broaden my knowledge of shaders (GLSL via OpenGL API) and to further my understaing of certain coding aspects. In order to achieve this, the majority of the engine is written from scratch and will include its own math-engine, physics-engine and render-engine. As of right now, I'm having this project on hold.
+
+I'm also currently developing a programming language suited for scientific computation called _K_. It's a language of which focus on readability and mathematical 'correctness' in terms of numerical approximations and solving various equations. It's supposed to be a tool for creating simulations.
 
 ## Contact
 If you wish to come in contact with me, feel free to send me an email andreas.evensen11@gmail.com or add me on discord <ins> Aristotes#2364</ins>.
@@ -19,6 +21,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div aling="center">
-  
   ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=thesombady&show_icons=true)
 </div>
