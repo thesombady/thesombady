@@ -1,3 +1,16 @@
+## Hi
+I'm just an eager student who enjoys coding. 
+
+
+- Masters-program in comp. physics
+- Working on K (my own scientific language)
+
+Mostly experience in simulation and numerical solutions in Python, Matlab, V. Experience in C++, Javascript, and Go.
+
+Contact me on discord <ins> Aristotes#2364</ins> for inquiries. 
+
+<!---
+
 # Hi
 Welcome to my profile. In my profile you can see what I've been working on, and what types of problems I focus on.
 
@@ -14,13 +27,17 @@ I'm also currently developing a programming language suited for scientific compu
 
 ## Contact
 If you wish to come in contact with me, feel free to send me an email andreas.evensen11@gmail.com or add me on discord <ins> Aristotes#2364</ins>.
-
+--->
 <!---
 thesombady/thesombady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
+
 <div aling="center">
   
   ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=thesombady&show_icons=true)
 </div>
+
+--->
