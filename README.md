@@ -5,7 +5,7 @@ I'm just an eager student who enjoys coding.
 - Masters-program in comp. physics
 - Working on K (my own scientific language)
 
-Mostly experience in simulation and numerical solutions in Python, Matlab, V. Experience in C++, Javascript, and Go.
+Mostly experience in simulation and numerical solutions in Python, Matlab, V. Moderate experience in C++, C#, Javascript, and Go.
 
 Contact me on discord <ins> Aristotes#2364</ins> for inquiries. 
 
