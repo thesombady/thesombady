@@ -9,6 +9,8 @@ Mostly experience in simulation and numerical solutions in Python, Matlab, V. Mo
 
 Contact me on discord <ins> Aristotes#2364</ins> for inquiries. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesombady&hide_progress=true)
+
 <!---
 
 # Hi
