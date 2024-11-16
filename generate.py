@@ -58,7 +58,7 @@ INFO = [
 ]
 
 imagePath = 'image.txt'
-markdown = ""
+markdown = "```v\n>>> info\n"
 with open(imagePath, 'r') as file:
     lines = file.readlines()
     combined = zip(lines, INFO)
@@ -67,4 +67,4 @@ with open(imagePath, 'r') as file:
 
 # markdown = markdown[:-1] # Remove last line
 with open('README.md', 'w') as file:
-    file.write(markdown)
+    file.write(markdown + "```")
