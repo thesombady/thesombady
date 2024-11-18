@@ -12,19 +12,18 @@ def wrap(txt: str):
 
 def calculateDate():
     years = today.year - birthDate.year
-    months = today.month - birthDate.month
-    days = today.day - birthDate.day
-    return str(years), str(months), str(days)
+    return str(years)
 
+name = os.environ['LOGNAME']
 INFO = [
-    '@andreas {}'.format(today),
+    '{}@{}'.format(name, today),
     line,
-    'Basic:',
+    'Info:',
     "Name: 'Andreas Evensen'",
-    "Age: {} years {}, months {}, days".format(*calculateDate()),
+    "Age: {} years".format(calculateDate()),
     "        ~~~~~ Undefined",
     "Language.Spoken: [Swedish, English]",
-    "Language.Coding:[C++, C, V, Python, Go]",
+    "Language.Coding: [C++, C, V, Python, Go]",
     "Editor: 'Helix'",
     '',
     line,
@@ -35,13 +34,13 @@ INFO = [
     "Employment: 50% Amanuens",
     '',
     line,
-    "Others:",
-    "Hobbies.Software: ['Language Creation', 'Scripting']",
-    "Hobbies.Others: ['Gym', 'Outdoors']",
-    "Hobbies.Hardware: null",
+    "Focus:",
+    "Focus.Software: ['Language Creation', 'Scripting']",
+    "Focus.Others: ['Gym', 'Outdoors']",
+    "Focus.Hardware: null",
     '',
     line,
-    "Projects:"
+    "Projects:",
     "Zeta.readme: 'Next generation scientific language'",
     "Zeta.status: {active: true, status: Hidden}",
     "vTikz.readme: 'Generate standalone tikz figures'",
@@ -66,5 +65,5 @@ with open(imagePath, 'r') as file:
         markdown += wrap(info[0][:-1]) + space + info[1] + newline
 
 # markdown = markdown[:-1] # Remove last line
-with open('README.md', 'w') as file:
-    file.write(markdown + "```")
+with open('readme.md', 'w') as file:
+    file.write(markdown + "\nß```")
