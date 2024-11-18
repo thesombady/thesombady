@@ -66,4 +66,4 @@ with open(imagePath, 'r') as file:
 
 # markdown = markdown[:-1] # Remove last line
 with open('readme.md', 'w') as file:
-    file.write(markdown + "\nß```")
+    file.write(markdown + "\n```")
