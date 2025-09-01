@@ -1,5 +1,5 @@
 ```v
->>> info
+>>> sfetch
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&' andreas@2024-11-18
 '&&&&&&&&&##BBBBBGB########&&&&&&&&&&&&&&&&&&&&&&&&&&&&&' _______
 '&&&&&&&&&&&&&&&&&&&#GP55Y555PPPB#BBBBB#####&&&&&&&&&&&&' Info:
@@ -15,7 +15,7 @@
 '&&&&&&####BG5J5YYYYJJ????7!~~~~!!!!!!!77?????JJYY5PG&&&' City: Västerås
 '&&&&&G5PBGGGGGG5JJ??????JYYYJ?!!!~~~~!!777???JJJYPGB&&&' University: Lund University -> Stockholm University
 '&&&&P??JPG5JJYP7~!7JJ55Y????JY5YJ5YJJYYYYYJJJJJYYPGB&&&'                            ~~~~ Not a pointer
-'&&&#?77?YGYJJJ5!!!777JYY7??77JP55BGYY5YYYY55PGGGPGB#&&&' Employment: 50% Amanuens
+'&&&#?77?YGYJJJ5!!!777JYY7??77JP55BGYY5YYYY55PGGGPGB#&&&' Employment: PhD student
 '&&&B7777?5JJ??5!!7777!!!7777JP?7?PPJ??555JJ??JYP##PB&&&' 
 '&&&G77!7?5J?77JYJ??7777777J5Y????5P7777?J?JYJ77?G&##&&&' _______
 '&&&P7777?5J??77!!77??JJJYYYJ77???JGY77!!!777777Y###&&&&' Focus:
