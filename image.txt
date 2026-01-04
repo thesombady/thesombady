@@ -1,6 +1,3 @@
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-&&&&&&&&&&##BBBBBGB########&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-&&&&&&&&&&&&&&&&&&&&#GP55Y555PPPB#BBBBB#####&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&#B5555YJYY5GGGGGGBBBBGBBB####&&&&&&&&&&
 &&&&&&&&&&&&&&&&#BGGPP555YY55PGGBBBBB########BB##&&&&&&&&
 &&&&&&&&&&&&&&&BGBBBGGGGBBGGBBBBB#####B############&&&&&&
@@ -36,5 +33,3 @@ BBBBBBBBBBBBBBBBBBBBBY!777?JY55P#&&&&&&&&&&&&&#BGGB######
 BBBBBBBBBBBBBBBBBBBBB#Y!77?JYYP##&&&&&&&&&&&&#GPGB###B#BB
 BBBBBBBBBBBBBBBBBBBBBBBJ7?JJJ5B####&&&&&&&&&&BPGB########
 BBBBBBBBBBBBBBBBBBBBBBBBJ???YB######&&&&&&&&&#GBB########
-BBBBBBBBBBBBBBBBBBBBB#BBY7?YB##B####&&&&&&&&&&&##########
-BBBBBBBBBBBBBBBBBBBBB##G??JG########&&&&&&&&&&&&&&#######
